@@ -14,6 +14,14 @@ bower install bootstrap
 ```
 grunt server
 ```
+## Components:
+
+* Bootstrap
+
+* JQuery
+
+* Less
+
 
 ## Jquery Plugins:
 
