@@ -29,3 +29,7 @@ grunt server
 
 * tilt.js - for image animation
 
+
+## Author
+
+* **Eduardo Juarez** - *Web developer*
